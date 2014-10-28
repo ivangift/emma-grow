@@ -1,0 +1,46 @@
+Note: the schedule is on months' basis, and assume there should be 4 weeks per month.
+
+Month 1
+  * Python 101
+  * Java refrensh
+  * git 101
+  * Code style 101
+  * codejam qualification round
+
+Month 2
+  * Computer Networks
+
+Month 3
+  * Computer Networks continued
+  
+Month 4
+  * HTML
+  * javascript
+  * CSS (optional)
+
+Month 5
+  * Web security
+
+Month 6
+  * Database
+
+Month 7
+  * Operating System
+
+Month 8
+  * Operating System continued
+
+Month 9
+  * "Code Complete"
+  * Code style
+    - http://google-styleguide.googlecode.com/svn/trunk/javaguide.html
+    - http://google-styleguide.googlecode.com/svn/trunk/pyguide.html
+
+Month 10
+  * "Introduction to Algorithms"
+
+Month 11
+  * "Introduction to Algorithms" continued
+  
+Month 12
+  * Codejam real challenges
